@@ -1,0 +1,1 @@
+{"lower_limit": -500, "upper_limit": 500, "fit": "schwefel", "pop_size": 200, "parent_selections": "on", "mutate": "non adaptive", "recombination": "on", "dimensionality": 3, "survival_selection": "elitist", "num_of_run": 6, "generations": 200}
